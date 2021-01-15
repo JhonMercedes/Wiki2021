@@ -14,8 +14,9 @@
     "Lojas NM": ["lojas"]
   },
   "docs-other": {
-    "Sistema PW": ["pw'", "imgpw"],
     "First Category": ["doc4", "doc5"],
+    "Sistema PW": ["pw'", "imgpw"],
+    "Sistema PDV": ["pdv"],
     "Suporte Técnico": ["field"],
     "Gspp": ["gspp"],
     "Operadoras": ["operadoras"],
