@@ -1,0 +1,24 @@
+{
+  "docs": {
+    "CPD/Atendimento": ["cpd","servicosrede","paperservice", "cups","vnc"],
+    "E-mail":["email"],
+    "Browsers": ["navegadores"],
+    "Impressoras": ["imp"],
+    "Voip":["voip"],
+    "Vtrine": ["autonomias"],
+    "Eventos": ["eventos"],
+
+    "Suporte Técnico": ["field"],
+    "Gspp": ["gspp"],
+    "Operadoras": ["operadoras"],
+    "Lojas NM": ["lojas"]
+  },
+  "docs-other": {
+    "Sistema PW": ["pw'", "imgpw"],
+    "First Category": ["doc4", "doc5"],
+    "Suporte Técnico": ["field"],
+    "Gspp": ["gspp"],
+    "Operadoras": ["operadoras"],
+    "Lojas NM": ["lojas"]
+  }
+}
