@@ -17,8 +17,8 @@ title: Cups
 ## IMPRESSORA COMPARTILHADA
  Verifique se a impressoa está já está compartilhada.
 
-    Digite no navegador o ip da máquina na qual está conectando seguido de :631 
-    Exemplo: http://172.15.244.51:631
+    Digite no navegador o ip da máquina na qual está conectando 
+    seguido de :631 Exemplo: http://172.15.244.51:631
 
 ## LINUX FOR LINUX
 
