@@ -1,24 +1,13 @@
 {
   "docs": {
-    "CPD/Atendimento": ["cpd","servicosrede","paperservice", "cups","vnc"],
-    "E-mail":["email"],
-    "Browsers": ["navegadores"],
+    "CPD/Atendimento": ["cmdbasicos","cpd","servicosrede","paperservice", "cups","vnc"],
     "Impressoras": ["imp"],
-    "Voip":["voip"],
-    "Vtrine": ["autonomias"],
-    "Eventos": ["eventos"],
-
-    "Suporte Técnico": ["field"],
-    "Gspp": ["gspp"],
-    "Operadoras": ["operadoras"],
-    "Lojas NM": ["lojas"]
+    "Gspp": ["gspp"]
   },
   "docs-other": {
+    "Sistema PW": ["pw"],
     "First Category": ["doc4", "doc5"],
-    "Sistema PW": ["pw'", "imgpw"],
-    "Sistema PDV": ["pdv"],
     "Suporte Técnico": ["field"],
-    "Gspp": ["gspp"],
     "Operadoras": ["operadoras"],
     "Lojas NM": ["lojas"]
   }

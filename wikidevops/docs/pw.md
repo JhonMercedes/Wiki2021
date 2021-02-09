@@ -1,7 +1,7 @@
 ---
 id: pw
 title: Sistema PW 
-sidebar_label: PONTOCOM
+sidebar_label: PontoCom
 ---
 
 Nesta sessão estão os erros e soluções para os sistemas das lojas PONTOCOM

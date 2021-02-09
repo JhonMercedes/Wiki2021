@@ -39,8 +39,12 @@ const siteConfig = {
   // For no header links in the top nav bar -> headerLinks: [],
   headerLinks: [
     {doc: 'cpd', label: 'HelpDesk'},
-   
+    {doc: 'pw', label: 'Sistema PW'},
+    {doc: 'pdv', label: 'PDV'},
+    {doc: 'coletores', label: 'EWM'},
+    {doc: 'field', label: 'Field'},
     {page: 'help', label: 'Help'},
+
     
   ],
 

@@ -5,8 +5,9 @@ sidebar_label: Servidores
 ---
 
 Nesta seção estão descritas as normas e procedimentos para solucão de problemas 
-relacionados a aplicativos e equipamentos das lojas, depósitos e departamentos Novo Mundo.
+relacionados a aplicativos e sistemas Novo Mundo 
 <img src="../img/logo2.png" alt="" style="float:right;width:300px"/>
+
 ## PRIMÁRIO | SECUNDÁRIO
 
 Para ter acesso aos servidores abra o terminal **konsole** e digite os seguintes comandos:
