@@ -5,15 +5,13 @@ title: Comandos Básicos Linux
 
 Compilado breve de comandos utilizados pela operação no dia-a-dia, com uma breve explicação e outro parâmetros adicionais, listados com o intuito de auxiliar quem está começando com o Linux.
 Para abrir o terminal, basta apertar Alt + Barra de Espaço e escrever terminal.
-Exemplo de diretório: `/home/teste/...`
-
->Mas antes dê uma lida sobre como se comportar e algumas dicas para seu melhorar seu 
+Exemplo de diretório: `/home/teste/...`    
+Mas antes dê uma lida sobre como se comportar e algumas dicas para seu melhorar seu 
 [atendimento](performace.md)
 
 ## TERMINAL
 
-Não é obrigatória a inserção de um (diretório) no comando, porém, ao deixar em branco, o terminal vai assumi-lo como se fosse a raiz ou a pasta atual, no caso da utilização do cd.
-
+Não é obrigatória a inserção de um (diretório) no comando, porém, ao deixar em branco, o terminal vai assumi-lo como se fosse a raiz ou a pasta atual, no caso da utilização do cd.    
 No caso de usuários, ele assumirá que é o root.
 (diretório nome) : Dois parâmetros, um de diretório e outro de nome
 (diretório/arquivo) : Caminho até o arquivo
@@ -92,7 +90,7 @@ Rede de loja, simplificada
 * **Roteador**: Faz a distribuição da rede para o destino correto, um controle de tráfego de rede. Pode existir mais de um roteador, um para cada link. Se ele não estiver funcionando, a loja inteira perde a conexão.
 
 * **Modem**: Faz a conversão entre tipos de dados para ser interpretado pelos PCs. Normalmente tem dois tipos:
-    MPLS: Responsável pelo acesso à rede interna da NM, como acesso ao portal e data centers. Esta rede é gerenciada pela Linx atualmente e é indispensável para o funcionamento da filial.
+    MPLS: Responsável pelo acesso à rede interna da NM, como acesso ao portal e data centers. Esta rede é gerenciada pela Linx atualmente e é indispensável para o funcionamento da filial.    
     ADSL: Responsável pela acesso à rede externa, a internet comum (google, etc.).
     É possível que haja mais de um link e que o ADSL seja uma VPN VIP, também como um link via rádio, no qual às vezes não há modem.
     Para se conectar à intranet sem um link MPLS, é necessário usar uma VPN, seja via cabo ou wireless, sendo que para o último é possível utilizar a rede nmadmin, porém precisa de liberação.
@@ -107,8 +105,6 @@ Rede de loja, simplificada
 
 **Para mais informações, acesse as páginas:** 
 
-Modem → Informações mais detalhadas sobre modem.
-
-Rack de loja exemplo → Informações mais detalhadas sobre os equipamentos que normalmente compõem a estrutura de rede da filial.
-
-Painel Operação → Guia de interpretação do painel da operação
+Modem → Informações mais detalhadas sobre modem.       
+Rack de loja exemplo → Informações mais detalhadas sobre os equipamentos que normalmente compõem a estrutura de rede da filial.         
+Painel Operação → Guia de interpretação do painel da operação      

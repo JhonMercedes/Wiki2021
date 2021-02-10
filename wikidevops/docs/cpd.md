@@ -114,8 +114,7 @@ Se o retorno for
 Apague a credencial salva no computador do usuário.
 * abra o "executar" do windows digite **control**, navegue >> Painel de Controle >> Conta de Usuários >> Gerenciador de credencia do Windows  
 
-Apague a conta que está salva como dataserver, Reinicie a máquina e tente acessar novamente.
-
+Apague a conta que está salva como dataserver, Reinicie a máquina e tente acessar novamente.    
 Se falhar siga o procedimento abaixo.
 
 ### Usando o Ping do servidor na máquina do usuário
